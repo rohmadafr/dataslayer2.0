@@ -1,0 +1,5 @@
+train: https://github.com/rohmadafr/dataslayer2.0/tree/main/train
+val: https://github.com/rohmadafr/dataslayer2.0/tree/main/val
+
+nc: 2  # Number of classes
+names: ['non_fall', 'fall']
